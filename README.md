@@ -59,6 +59,7 @@ This model is not suitable for deployment in its current form.
 While both ensemble models performed exceptionally well, Gradient Boosting provided the most consistent high-level performance across all evaluation metrics and classes. Its robust prediction of high-performing employees (Class 4) is critical for strategic human resources planning.
 
 **Next Steps:**
+
 **1. Hyperparameter Tuning**: Further optimize the Gradient Boosting model using techniques like Grid Search or Randomized Search to potentially push the accuracy above 93%.
 
 **2. Feature Importance**: Extract and analyze feature importance from the Gradient Boosting model to gain final, actionable insights on what drives employee performance.
